@@ -1,0 +1,48 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 33px;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.top-word {
+  margin: 33px;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+h1 {
+  display: block;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  
+}
